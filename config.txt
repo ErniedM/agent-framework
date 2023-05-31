@@ -1,1 +1,14 @@
-
+[
+    {
+        "module": "system_info",
+        "action": "collect"
+    },
+    {
+        "module": "update_software",
+        "action": "check"
+    },
+    {
+        "module": "update_hardware",
+        "action": "check"
+    }
+]
