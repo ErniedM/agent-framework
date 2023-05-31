@@ -2,13 +2,5 @@
     {
         "module": "system_info.py",
         "action": "collect"
-    },
-    {
-        "module": "update_software.py",
-        "action": "check"
-    },
-    {
-        "module": "update_hardware.py",
-        "action": "check"
     }
 ]
