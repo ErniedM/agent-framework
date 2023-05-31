@@ -1,14 +1,14 @@
 [
     {
-        "module": "system_info",
+        "module": "system_info.py",
         "action": "collect"
     },
     {
-        "module": "update_software",
+        "module": "update_software.py",
         "action": "check"
     },
     {
-        "module": "update_hardware",
+        "module": "update_hardware.py",
         "action": "check"
     }
 ]
